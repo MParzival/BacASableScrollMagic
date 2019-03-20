@@ -30,7 +30,6 @@ header img {
     width: 100%;
     position: relative;
     border-bottom: 1px solid black;
-    opacity: 1;
     transition: all 0.2s ease-in;
     
 }
